@@ -132,6 +132,9 @@ clear()
 # Ülesanne 9
 print("Ülesanne 9")
 
+print("""Arvutame kolmnurga ümbermõõdu. 
+Loo kolm täisarvulist muutujat a, b, c. Kasuta valem, mis arvutab kolmnurga ümbermõõdu (P=a+b+c)""")
+
 a = 8
 b = 12
 c = 12
@@ -180,6 +183,5 @@ while True:
                 tekst = "komm"
             print(f"Laua peale on jäänud {arv} {tekst}.")
             break
-
     except BaseException:
         print("Sisesta positiivne arv!")
