@@ -158,7 +158,7 @@ igaühe_osa = kokku / P
 
 print(f"Igaüks maksab {igaühe_osa:.2f} €.")
 
-input("Vajuta Enterit, et vaadata ülesannet 10.")
+input("Vajuta Enterit, et vaadata ülesannet 11.")
 
 clear()
 
